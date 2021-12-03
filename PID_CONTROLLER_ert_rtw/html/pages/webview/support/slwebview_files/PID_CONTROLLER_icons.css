@@ -1,0 +1,9 @@
+.PID_CONTROLLER0,
+.PID_CONTROLLER1,
+.PID_CONTROLLER2,
+.PID_CONTROLLER3 { background-image: url('PID_CONTROLLER_icons.png'); width: 16px; height: 16px; }
+
+.PID_CONTROLLER0 { background-position: -0px; }
+.PID_CONTROLLER1 { background-position: -16px; }
+.PID_CONTROLLER2 { background-position: -32px; }
+.PID_CONTROLLER3 { background-position: -48px; }

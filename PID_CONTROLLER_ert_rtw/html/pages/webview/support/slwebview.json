@@ -1,0 +1,25 @@
+{
+ "baseUrl":"support/slwebview_files",
+ "homeHid":1,
+ "initialElement":"",
+ "sections":[
+  {
+   "hid":1,
+   "sid":"PID_CONTROLLER",
+   "name":"PID_CONTROLLER",
+   "fullname":"PID_CONTROLLER",
+   "label":"PID_CONTROLLER",
+   "parent":0,
+   "descendants":[
+   ],
+   "hierarchyUrl":"support/slwebview_files/PID_CONTROLLER_h_1.json",
+   "backingUrl":"support/slwebview_files/PID_CONTROLLER_m.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false
+ },
+ "iconsUrl":"support/slwebview_files/PID_CONTROLLER_icons.css"
+}

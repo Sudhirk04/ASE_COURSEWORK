@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">PID_CONTROLLER_Harness1</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">sudhir</P>
+    <P Name="CreatedOn">Sat Nov 27 22:46:59 2021</P>
+    <P Name="ModifiedBy">sudhir</P>
+    <P Name="LastSaved">Fri Dec 03 19:22:20 2021</P>
+    <P Name="Owner">bd</P>
+    <P Name="OwnerType">BD_HARNESS</P>
+    <P Name="OwnerPath">.</P>
+    <P Name="Directory"/>
+    <P Name="FileName">PID_CONTROLLER_Harness1.slx</P>
+    <P Name="SavedVersion">10.4</P>
+    <P Name="HarnessUUID">5ccb9d71-e91d-4ee1-92a4-daa9bd373fab</P>
+    <P Name="HarnessConnectionsMap">0|0|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">true</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">1</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">0</P>
+    <P Name="SourceTypeString">Signal Builder</P>
+    <P Name="SinkTypeString">Outport</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">2|13|0|0|0|0|0</P>
+    <P Name="OpenGraphs">||PID_CONTROLLER_Harness1</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">26acc64f-95bd-4876-b999-bce236149a9c</P>
+    <P Name="OwnerBDName">PID_CONTROLLER</P>
+  </ModelMetadata>
+</HarnessInformation>
